@@ -97,7 +97,7 @@ sr.reveal(".skills__img", {
 });
 
 // SCROLL WORK
-sr.reveal(".work__img", {
+sr.reveal(".work-project", {
   duration: 2000,
   origin: "top",
   distance: "80px",
