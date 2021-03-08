@@ -187,7 +187,12 @@ img {
 }
 
 .nav__logo {
+    font-size: 1.5rem;
     color: var(--second-color);
+}
+
+.nav__logo span {
+    color: var(--first-color);
 }
 
 .nav__toggle {
@@ -398,6 +403,10 @@ img {
     padding: 1rem;
     border-bottom-left-radius: 0.5rem;
     border-bottom-right-radius: 0.5rem;
+}
+
+.work-tab a {
+    color: white;
 }
 
 .live-project {
