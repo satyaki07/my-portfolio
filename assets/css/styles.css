@@ -398,6 +398,10 @@ img {
     box-shadow: 0 4px 25px rgba(14, 36, 49, .15);
 }
 
+.work-project h1 {
+    color: var(--first-color);
+}
+
 .work-tab {
     background-color: #fff;
     padding: 1rem;
@@ -419,7 +423,7 @@ img {
 }
 
 .techno_text {
-    color: var(--first-color);
+    color: var(--second-color);
     font-weight: var(--font-semi);
 }
 
