@@ -456,6 +456,12 @@ img {
     margin-bottom: var(--mb-4);
 }
 
+.contact__form textarea {
+    font-family: 'Poppins', sans-serif;
+    font-size: var(--normal-font-size);
+    font-weight: var(--font-semi);
+}
+
 .contact__button {
     display: block;
     border: none;
@@ -471,7 +477,7 @@ img {
 .footer {
     background-color: var(--second-color);
     color: #fff;
-    padding: 2rem 0;
+    padding: 1.5rem 0;
     text-align: center;
     font-weight: var(--font-semi);
 }
@@ -489,6 +495,18 @@ img {
     font-size: 1.5rem;
     color: #fff;
     margin: 0 var(--mb-2)
+}
+
+.bxl-linkedin-square:hover {
+    color: #0E76A8;
+}
+
+.bxl-github:hover {
+    color: #333;
+}
+
+.bxl-twitter:hover {
+    color: #00ACEE;
 }
 
 /* MEDIA QUERIES */
