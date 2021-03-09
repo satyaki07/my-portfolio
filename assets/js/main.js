@@ -106,6 +106,12 @@ sr.reveal(".work-project", {
 });
 
 // SCROLL CONTACT
+sr.reveal(".contact-detail", {
+  duration: 2000,
+  origin: "top",
+  distance: "80px",
+  interval: 200,
+});
 sr.reveal(".contact__input", {
   duration: 2000,
   origin: "top",

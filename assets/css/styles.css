@@ -429,6 +429,22 @@ img {
 
 /* CONTACT */
 
+.contact__details {
+    padding: 1.5rem;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: var(--mb-4);
+}
+
+.contact__details i {
+    color: var(--second-color);
+    font-size: 2.5rem;
+}
+
 .contact__input {
     width: 100%;
     font-size: var(--normal-font-size);
