@@ -324,6 +324,13 @@ img {
     box-shadow: 0 4px 25px rgba(14, 36, 49, 0.15);
 }
 
+.css__image {
+    width: 2rem;
+    height: auto;
+    display: inline;
+    margin-right: var(--mb-2);
+}
+
 .skills__icon {
     font-size: 2rem;
     color: var(--first-color);
