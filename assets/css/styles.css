@@ -515,6 +515,15 @@ img {
 
 /* MEDIA QUERIES */
 
+@media screen and (max-width: 768px) {
+    .contact__details {
+        flex-direction: column;
+    }
+    .contact-detail {
+        margin-bottom: var(--mb-4);
+    }
+}
+
 @media screen and (min-width: 768px) {
     body {
         margin: 0;
