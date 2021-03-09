@@ -482,6 +482,10 @@ img {
     font-weight: var(--font-semi);
 }
 
+.footer span {
+    color: var(--first-color);
+}
+
 .footer__title {
     font-size: 2rem;
     margin-bottom: var(--mb-4);
