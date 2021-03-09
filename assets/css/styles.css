@@ -364,8 +364,17 @@ img {
     width: 80%;
 }
 
+.skills__react {
+    width: 75%;
+}
+
+.skills__node {
+    width: 75%;
+}
+
 .skills__img {
     border-radius: 0.5rem;
+    box-shadow: 0 4px 25px rgba(14, 36, 49, 0.15);
 }
 
 /* WORK */
